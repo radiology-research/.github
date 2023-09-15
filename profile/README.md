@@ -1,6 +1,6 @@
 ## Introduction
 
-This organization provides a home for research projects within the UCSF Department of Radiology & Biomedical Imaging. While labs and groups may host their own organizations, this org is for general, department-wide by for our research staff and faculty.
+This organization provides a home for research projects within the UCSF Department of Radiology & Biomedical Imaging. While labs and groups may host their own organizations, this org is designed for general, department-wide use by for our research staff and faculty.
 
 ## Management
 
