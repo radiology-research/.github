@@ -4,6 +4,6 @@ This organization provides a home for research projects within the UCSF Departme
 
 ## Management
 
-You can find more information about the UCSF Department of Radiology & Biomedical Imaging [here](https://radiology.ucsf.edu/), and a directory of the organizations managed within our department can be found [here](https://github.com/ucsf-radiology).
+You can find more information about the UCSF Department of Radiology & Biomedical Imaging [here](https://radiology.ucsf.edu/) and a directory of the organizations managed within our department [here](https://github.com/ucsf-radiology).
 
 This organization is managed by the Scientific Computing Services (SCS) team. If you have questions or need access, please contact them at [radiology-scs@ucsf.edu](mailto:radiology-scs@ucsf.edu).
